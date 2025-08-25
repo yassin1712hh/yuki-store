@@ -1,1 +1,1 @@
-# yuki-store
+# Yuki Store
