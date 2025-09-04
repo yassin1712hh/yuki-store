@@ -32,7 +32,7 @@ const OrderSuccessPage: React.FC = () => {
             Make sure your WhatsApp is active and ready to receive messages!
           </p>
           <a
-            href="https://wa.me/96407727999491"
+            href="https://wa.me/9647737006018"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center space-x-3 bg-white text-success-green px-8 py-4 rounded-full font-semibold hover:bg-gray-100 transition-all duration-300 transform hover:scale-105"
