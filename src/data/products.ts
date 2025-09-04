@@ -248,59 +248,59 @@ export const products: Product[] = [
     id: 'gg-2',
     name: 'Queen Bee',
     category: 'Grow a Garden',
-    image: 'https://images-ext-1.discordapp.net/external/AV9N7_j2UlcNZB3QL9qoZqLBznlt1DczD7IptrAl2DE/https/i.imgur.com/x4fwEt8h.jpg?format=webp&width=819&height=410',
+    image: 'https://images-ext-1.discordapp.net/external/73Oh8eGLeQqoDtwoy9U0UZTKn8y_CAx1BJKERyM8yik/https/i.imgur.com/fkBBiQrh.jpg?format=webp&width=846&height=846',
     description: 'Royal queen bee that adds charm and value to your garden.',
-    price: 5000,
+    price: 1000,
     currency: 'IQD'
   },
   {
     id: 'gg-3',
     name: 'Dragon Fly',
     category: 'Grow a Garden',
-    image: 'https://images-ext-1.discordapp.net/external/XdAu42-MVwmMZhsUjZQzXqb-hjIRgummqtKmzPJ2Tro/https/i.imgur.com/9NESBcch.jpg?format=webp&width=693&height=715',
+    image: 'https://images-ext-1.discordapp.net/external/r_Nd2CZmW0pKlRM4B-M2Eh1f3HZsaru68486T7adgsE/https/i.imgur.com/bUKCnndh.jpg?format=webp&width=846&height=846',
     description: 'Magical dragon fly buzzing around your vibrant garden.',
-    price: 5000,
+    price: 1,
     currency: 'IQD'
   },
  {
     id: 'gg-4',
     name: 'butterFly',
     category: 'Grow a Garden',
-    image: 'https://images-ext-1.discordapp.net/external/qdyzsUetePTltlHtruUPI99xgtsbnH3XaIh1_nB8JXY/https/i.imgur.com/o9WB3B3h.jpg?format=webp&width=715&height=715',
+    image: 'https://images-ext-1.discordapp.net/external/oLzUaLQzWndSH_F7eVySvNjifn7j0xL_hiWit0d75Ug/https/i.imgur.com/ZmrXUFBh.jpg?format=webp&width=846&height=846',
     description: 'Magical butterfly buzzing around your vibrant garden.',
-    price: 10000,
+    price: 5000,
     currency: 'IQD'
   },
  {
     id: 'gg-5',
     name: 'Trex',
     category: 'Grow a Garden',
-    image: 'https://images-ext-1.discordapp.net/external/VweBXkydV8gfQmuBflpO_p3Wp66Tb8V2ZJhOQuyzOi4/https/i.imgur.com/90fWpu7h.jpg?format=webp&width=802&height=715',
+    image: 'https://images-ext-1.discordapp.net/external/2d0OF7KlBBrmXW5TcQhl8i_tctiUGBV9Pr6f8ynM4Es/https/i.imgur.com/srR6rtTh.jpg?format=webp&width=270&height=270',
     description: 'Magical trex buzzing around your vibrant garden.',
-    price: 5000,
+    price: 2000,
     currency: 'IQD'
   },
  {
     id: 'gg-6',
     name: 'redfox',
     category: 'Grow a Garden',
-    image: 'https://images-ext-1.discordapp.net/external/nR2H0IqHyVbLskE5crRdI99wUmW2-FUV8WogHC-VnnU/https/i.imgur.com/6ShcYB1h.jpg?format=webp&width=819&height=498',
+    image: 'https://images-ext-1.discordapp.net/external/1t7518YbUX7VwesEmJJ5-p2-HKMfGACaKFjJO8bjDqY/https/i.imgur.com/V2eAZg8.png?format=webp&quality=lossless&width=450&height=450',
     description: 'Magical redfox buzzing around your vibrant garden.',
-    price: 5000,
+    price: 1000,
     currency: 'IQD'
   },
 {
     id: 'gg-7',
     name: 'disco bee',
     category: 'Grow a Garden',
-    image: 'https://images-ext-1.discordapp.net/external/Y8D7Li-T3ghgFS4LeqGu71hOCTshew35KIF0kjKl35M/https/i.imgur.com/JyOmtd4h.jpg?format=webp&width=715&height=715',
+    image: 'https://images-ext-1.discordapp.net/external/bUFvMd-4skz-YZPDv25yTvr8BK6v6vFdKvQPay0ZntE/https/i.imgur.com/XbtWAnCh.jpg?format=webp&width=846&height=846',
     description: 'Magical disco bee buzzing around your vibrant garden.',
-    price: 15000,
+    price: 10000,
     currency: 'IQD'
   },
   {
       id: 'gg-8',
-    name: '800t sheckles',
+    name: '50sx sheckles',
     category: 'Grow a Garden',
     image: 'https://images-ext-1.discordapp.net/external/gkb0ODTBdocDWShOYLC4Sf6xCt4e6A6OuwXMNtZ6H_o/https/i.imgur.com/WnIRDVph.jpg?format=webp&width=779&height=779',
     description: '800t',
@@ -311,18 +311,18 @@ export const products: Product[] = [
       id: 'gg-9',
     name: 'spinosorus',
     category: 'Grow a Garden',
-    image: 'https://images-ext-1.discordapp.net/external/hhQ-52IohdN76pJcBZ2j_lqk08UywSGieI0wyEi-8TQ/https/i.imgur.com/gEQbJush.jpg?format=webp&width=779&height=779',
+    image: 'https://images-ext-1.discordapp.net/external/-R6WK3DZcjnvxaVwEUFwAKss-4Y6en1SFCTIpJMXi4g/https/i.imgur.com/UAw6aiUh.jpg?format=webp&width=846&height=846',
     description: 'spinosurs',
-    price: 5000,
+    price: 4000,
     currency: 'IQD'
   },
  {
       id: 'gg-10',
     name: 'mimic octoputs',
     category: 'Grow a Garden',
-    image: 'https://images-ext-1.discordapp.net/external/V55am6aqB828WOjkthanEedquf9wNfH5A-gARl0T2Wk/https/i.imgur.com/aKDNblGh.jpg?format=webp&width=669&height=779',
+    image: 'https://images-ext-1.discordapp.net/external/jbxOyNVLJkqoY65Swe-KHj1NkccZ4PAi1l8Y0t-GivA/https/i.imgur.com/ybQCtknh.jpg?format=webp&width=846&height=846',
     description: 'mimic',
-    price: 5000,
+    price: 2000,
     currency: 'IQD'
   },
 {
@@ -332,6 +332,15 @@ export const products: Product[] = [
     image: 'https://images-ext-1.discordapp.net/external/fny5se2UMDrcWkCP05OChq3hTE4zCp8kOVtDZJIE9Uc/https/i.imgur.com/M8BA3Fgh.jpg?format=webp&width=1152&height=648',
     description: 'coruupted ',
     price: 5000,
+    currency: 'IQD'
+  },
+  {
+      id: 'gg-12',
+    name: 'griffen',
+    category: 'Grow a Garden',
+    image: 'https://images-ext-1.discordapp.net/external/fny5se2UMDrcWkCP05OChq3hTE4zCp8kOVtDZJIE9Uc/https/i.imgur.com/M8BA3Fgh.jpg?format=webp&width=1152&height=648',
+    description: 'coruupted ',
+    price: 1000,
     currency: 'IQD'
   },
 ];
