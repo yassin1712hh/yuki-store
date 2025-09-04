@@ -336,11 +336,20 @@ export const products: Product[] = [
   },
   {
       id: 'gg-12',
-    name: 'griffen',
+    name: 'lobster',
     category: 'Grow a Garden',
-    image: 'https://images-ext-1.discordapp.net/external/fny5se2UMDrcWkCP05OChq3hTE4zCp8kOVtDZJIE9Uc/https/i.imgur.com/M8BA3Fgh.jpg?format=webp&width=1152&height=648',
-    description: 'coruupted ',
+    image: 'https://images-ext-1.discordapp.net/external/U-R8vFi7aT545kleg6jSBbNLmO0gOXulqUqTooDsG5I/https/i.imgur.com/SxM1Wfih.jpg?format=webp&width=846&height=846',
+    description: 'lob ',
     price: 1000,
+    currency: 'IQD'
+  },
+  {
+      id: 'gg-13',
+    name: 'golden goose',
+    category: 'Grow a Garden',
+    image: 'https://images-ext-1.discordapp.net/external/tr_fXfqkxiWWY7iCoQAjlLZzoOLXJQvZ6hg8e0x6KsY/https/i.imgur.com/duHIkR5h.jpg?format=webp&width=846&height=846',
+    description: 'coruupted ',
+    price: 5000,
     currency: 'IQD'
   },
 ];
