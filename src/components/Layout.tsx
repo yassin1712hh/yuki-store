@@ -26,7 +26,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
     <div className="min-h-screen bg-dark-bg text-text-gray">
       {/* Discord Button - Fixed Position with Enhanced Glow */}
       <a
-        href="https://wa.me/96407727999491"
+        href="https://wa.me/9647737006018"
         target="_blank"
         rel="noopener noreferrer"
         className="fixed right-4 lg:right-6 top-1/2 transform -translate-y-1/2 z-40 bg-gradient-to-r from-success-green to-green-600 hover:from-green-600 hover:to-success-green text-white p-3 lg:p-4 rounded-full shadow-2xl transition-all duration-500 hover:scale-110 animate-glow group"
@@ -224,7 +224,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
                 </p>
             <div className="flex flex-col sm:flex-row justify-center space-y-4 sm:space-y-0 sm:space-x-8 lg:space-x-12 mb-6 lg:mb-8">
               <a
-                href="https://wa.me/96407727999491"
+                href="https://wa.me/9647737006018"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-yuki-dark hover:text-yuki-purple transition-all duration-300 font-semibold text-base lg:text-lg transform hover:scale-110 hover:shadow-lg"
