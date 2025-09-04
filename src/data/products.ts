@@ -239,7 +239,7 @@ export const products: Product[] = [
     id: 'gg-1',
     name: 'Racoon',
     category: 'Grow a Garden',
-    image: 'https://images-ext-1.discordapp.net/external/0BOBYEfZpA4u5kMNWimxIaM7oRLpbeCDpsBkc0cyRoQ/https/i.imgur.com/TFVJidnh.jpg?format=webp&width=525&height=715',
+    image: 'https://images-ext-1.discordapp.net/external/Wce-Hxpwnr0jF_HWz3uC6V9yQR1-xNmIFHNNBo-DbpQ/https/i.imgur.com/eXEi3Pih.jpg?format=webp&width=846&height=846',
     description: 'Cute racoon pet to enhance your garden adventures.',
     price: 10000,
     currency: 'IQD'
