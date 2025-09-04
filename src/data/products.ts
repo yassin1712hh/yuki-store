@@ -365,7 +365,7 @@ export const products: Product[] = [
       id: 'gg-15',
     name: 'mega kitsune',
     category: 'Grow a Garden',
-    image: 'https://images-ext-1.discordapp.net/external/tr_fXfqkxiWWY7iCoQAjlLZzoOLXJQvZ6hg8e0x6KsY/https/i.imgur.com/duHIkR5h.jpg?format=webp&width=846&height=846',
+    image: 'https://images-ext-1.discordapp.net/external/3zhCy95CF4WeGH3J7E7zoZDKQiopbjQ-FPWPJcweNWA/https/i.imgur.com/KJABhc0h.jpg?format=webp&width=846&height=846',
     description: 'coruupted ',
     price: 30000,
     currency: 'IQD'
@@ -374,7 +374,7 @@ export const products: Product[] = [
     id: 'gg-16',
     name: 'rainbow kitsune',
     category: 'Grow a Garden',
-    image: 'https://images-ext-1.discordapp.net/external/tr_fXfqkxiWWY7iCoQAjlLZzoOLXJQvZ6hg8e0x6KsY/https/i.imgur.com/duHIkR5h.jpg?format=webp&width=846&height=846',
+    image: 'https://images-ext-1.discordapp.net/external/3zhCy95CF4WeGH3J7E7zoZDKQiopbjQ-FPWPJcweNWA/https/i.imgur.com/KJABhc0h.jpg?format=webp&width=846&height=846',
     description: 'coruupted ',
     price: 30000,
     currency: 'IQD'
