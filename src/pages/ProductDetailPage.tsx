@@ -210,7 +210,7 @@ const ProductDetailPage: React.FC = () => {
                     <span>Ready to get your items?</span>
                   </div>
                   <a
-                    href="https://wa.me/96407727999491"
+                    href="https://wa.me/9647737006018"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center space-x-2 bg-gradient-to-r from-success-green to-green-600 text-white px-6 py-3 rounded-full font-semibold hover:from-green-600 hover:to-success-green transition-all duration-300 transform hover:scale-105"
