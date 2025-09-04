@@ -179,7 +179,7 @@ const HomePage: React.FC = () => {
               Browse Products
             </Link>
             <a
-              href="https://wa.me/96407727999491"
+              href="https://wa.me/9647737006018"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-gray-800 text-white px-10 py-5 rounded-full font-semibold hover:bg-gray-700 transition-all duration-300 transform hover:scale-105 shadow-2xl border border-white/20"
