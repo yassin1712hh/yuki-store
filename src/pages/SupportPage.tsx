@@ -30,7 +30,7 @@ const SupportPage: React.FC = () => {
               Get instant support, track your orders, and connect with our community!
             </p>
             <a
-              href="https://wa.me/96407727999491"
+              href="https://wa.me/9647737006018"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center space-x-4 bg-white text-success-green px-10 py-5 rounded-full font-bold hover:bg-gray-100 transition-all duration-500 transform hover:scale-110 text-xl shadow-2xl animate-glow"
@@ -225,7 +225,7 @@ const SupportPage: React.FC = () => {
               Our support team is available 24/7 on WhatsApp to help you with any questions or issues.
             </p>
             <a
-              href="https://wa.me/96407727999491"
+              href="https://wa.me/9647737006018"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center space-x-4 bg-gradient-to-r from-success-green to-green-600 text-white px-10 py-5 rounded-full font-bold hover:from-green-600 hover:to-success-green transition-all duration-500 transform hover:scale-110 shadow-2xl animate-glow"
